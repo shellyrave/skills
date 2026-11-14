@@ -1,0 +1,4 @@
+interface:
+  display_name: "כתיבת תוכן השקפים"
+  short_description: "ניסוח כותרות, הסברים ודוגמאות לפי חומרי השיעור"
+  default_prompt: "כתבי עם $coaching-lesson-content את תוכן השקפים לפי מבנה השיעור."

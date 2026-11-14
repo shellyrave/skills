@@ -1,0 +1,4 @@
+interface:
+  display_name: "קריאת מקורות ודיוק השיעור"
+  short_description: "קריאת החומרים ודיוק המטרה, הדגשים והמידע החסר"
+  default_prompt: "נתחי עם $coaching-lesson-intake את מקורות השיעור והגדירי מה נדרש להכנתו."

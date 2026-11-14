@@ -1,0 +1,4 @@
+interface:
+  display_name: "הפקת מצגת הקורס"
+  short_description: "בניית מצגת מעוצבת לפי התוכן והמיתוג המאושרים"
+  default_prompt: "הפיקי עם $coaching-lesson-presentation מצגת לפי התוכן ושפת העיצוב המאושרים."

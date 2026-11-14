@@ -1,0 +1,4 @@
+interface:
+  display_name: "הכנת שיעור מלא לקורס מאמנים"
+  short_description: "ניהול כל שלבי הכנת השיעור מהמקור ועד למצגת בדוקה"
+  default_prompt: "הכיני עם $coaching-lesson-orchestrator שיעור מלא מהמסמך המצורף לפי שפת הקורס."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "שאלות, התנסות והנחיה"
+  short_description: "שילוב שאלות ותרגילים ברצף התוכן והנחיות למרצה"
+  default_prompt: "שלבי עם $coaching-lesson-facilitation שאלות והתנסות בתוך תוכן השיעור."

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "file": "brand-logo.png",
+      "role": "original_brand",
+      "source": "שיעור שינוי 2.pdf",
+      "usage": "Crop of the original logo from page 2; preserve proportions.",
+      "sha256": "001ca3f155845169cce0f1b354982eb5e491f634126777d5aad941e0b82afab9",
+      "bytes": 23731
+    },
+    {
+      "file": "brand-bee.png",
+      "role": "original_brand",
+      "source": "שיעור שינוי 2.pdf",
+      "usage": "Crop of the original bee from page 2; preserve proportions.",
+      "sha256": "ed1fe009494cabb5fdbfa3136f7babd637094e9535f1bf92ca7d8e73f11ea867",
+      "bytes": 4888
+    },
+    {
+      "file": "reference-title.png",
+      "role": "visual_reference",
+      "source": "שיעור שינוי 2.pdf",
+      "usage": "Rendered page 2; visual reference, not an empty slide master.",
+      "sha256": "60ffed6d136928835fc46adf4bf49e81f84611cff0de1acfc01d2316ca358834",
+      "bytes": 68597
+    },
+    {
+      "file": "approved-content-slide.png",
+      "role": "approved_visual_example",
+      "source": "פרק א: החסם הרגשי בתוך מודל ארבעת השערים",
+      "usage": "Approved chapter slide 3; layout and typography reference, not universal lesson content.",
+      "sha256": "aac39d536c4bd129304073e101ca94313f037c44c3162b43d5034a9e9c961661",
+      "bytes": 218748
+    },
+    {
+      "file": "approved-summary-diagram.png",
+      "role": "approved_visual_example",
+      "source": "פרק א: החסם הרגשי בתוך מודל ארבעת השערים",
+      "usage": "Approved chapter slide 12 with the final six-stage sequence; lesson-specific example.",
+      "sha256": "579716b9a29a0eec0b515ac953ebee844754fcf73a058e51115d3e11bed4bd84",
+      "bytes": 40148
+    }
+  ],
+  "notes": "User-provided and approved references. Complete course source documents are not included."
+}

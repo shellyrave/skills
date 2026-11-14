@@ -1,0 +1,4 @@
+interface:
+  display_name: "בדיקת שיעור ותיקונים"
+  short_description: "בדיקת נאמנות למקור, רצף, זמנים וקריאות המצגת"
+  default_prompt: "בדקי עם $coaching-lesson-review את השיעור והמצגת ותקני ליקויים במסגרת ההנחיות."

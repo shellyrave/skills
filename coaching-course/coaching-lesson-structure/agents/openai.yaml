@@ -1,0 +1,4 @@
+interface:
+  display_name: "בניית מבנה השיעור"
+  short_description: "חלוקה לפרקים, רצף למידה ותכנון ראשוני של הזמנים"
+  default_prompt: "בני עם $coaching-lesson-structure מבנה שיעור לפי המטרה והמקורות המצורפים."
